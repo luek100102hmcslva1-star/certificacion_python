@@ -1,0 +1,8 @@
+#definir un conjunto de numeros
+numeros={1,2,3,4,5}
+numero=int(input("Introduce un numero"))
+#Agregar el nuevo numero al conjunto(set)
+numeros.add(numero)
+print(numeros)
+print(numeros[0])
+
